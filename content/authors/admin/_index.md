@@ -77,7 +77,7 @@ social:
 email: "aczeszumski@uos.de"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Artur Czeszumski is a PhD Candidate in Cognitive Science at the University of Osnabrück, and Clinical Psychology at the Vrije Universiteit Amsterdam. His research interests include social neuroscience, cognitive and clinical psychology, and embodied cognition. 
