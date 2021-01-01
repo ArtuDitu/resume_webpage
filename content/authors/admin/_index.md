@@ -50,9 +50,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aczeszum
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.de/citations?user=mcd0HH8AAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Artur_Czeszumski
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/fmja4/
 - icon: github
   icon_pack: fab
   link: https://github.com/ArtuDitu
@@ -75,5 +81,3 @@ highlight_name: false
 ---
 
 Artur Czeszumski is a PhD Candidate in Cognitive Science at the University of Osnabrück, and Clinical Psychology at the Vrije Universiteit Amsterdam. His research interests include social neuroscience, cognitive and clinical psychology, and embodied cognition. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
