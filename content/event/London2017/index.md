@@ -1,5 +1,5 @@
 ---
-url: 'Does the social situations affect how we process feedback about our actions?5'
+url: 'Does the social situations affect how we process feedback about our actions5'
 title: Does the social situations affect how we process feedback about our actions?
 
 event: 'Joint Action Meeting: JAM VI'

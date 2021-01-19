@@ -1,5 +1,5 @@
 ---
-url: 'Does the social situations affect how we process feedback about our actions?8'
+url: 'Does the social situations affect how we process feedback about our actions8'
 title: Does the social situations affect how we process feedback about our actions?
 event: 'ICMC: International Conference on Multimodal Communication: Developing New Theories and Methods' 
 event_url: https://twitter.com/icmc2020?lang=en

@@ -1,5 +1,5 @@
 ---
-url: 'Does the social situations affect how we process feedback about our actions?3'
+url: 'Does the social situations affect how we process feedback about our actions3'
 title: Does the social situations affect how we process feedback about our actions?
 
 event: 2nd Workshop:Agent-Specificities and Relationships in Social Interactions

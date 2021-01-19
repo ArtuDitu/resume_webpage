@@ -1,5 +1,5 @@
 ---
-url: 'Does the social situations affect how we process feedback about our actions?10'
+url: 'Does the social situations affect how we process feedback about our actions10'
 title: Does the social situations affect how we process feedback about our actions?
 
 event: 'MeeTo 2018: from moving bodies to interactive minds 2018'
