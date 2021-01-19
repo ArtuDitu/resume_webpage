@@ -1,4 +1,5 @@
 ---
+url: The social situation affects how we process feedback about our actions1
 title: The social situation affects how we process feedback about our actions
 
 event: Cognitive Science Arena

@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Osnabrück
-  url: https://www.ikw.uni-osnabrueck.de/en/home.html
+  url: https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html
 - name: Vrije Universiteit Amsterdam
   url: http://emotionregulationlab.com/
 
@@ -19,7 +19,7 @@ organizations:
 bio: My research interests include social neuroscience, cognitive and clinical psychology, and embodied cognition.
 
 # Interests to show in About widget
-interests:
+Interests:
 - Social Neuroscience
 - Joint Action
 - Embodied cognition
@@ -80,4 +80,4 @@ email: "aczeszumski@uos.de"
 highlight_name: true
 ---
 
-Artur Czeszumski is a PhD Candidate in Cognitive Science at the University of Osnabrück, and Clinical Psychology at the Vrije Universiteit Amsterdam. His research interests include social neuroscience, cognitive and clinical psychology, and embodied cognition. 
+Artur Czeszumski is a PhD Candidate in Cognitive Science at the University of Osnabrück, and Clinical Psychology at the Vrije Universiteit Amsterdam. His research topics include social neuroscience, cognitive and clinical psychology, and embodied cognition. 

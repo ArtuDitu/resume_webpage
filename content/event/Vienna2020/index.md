@@ -1,5 +1,6 @@
 ---
-title: Neural underpinnings of social interactions
+url: 'Neural underpinnings of social interactions1'
+title: 'Neural underpinnings of social interactions'
 event: Developmental Psychology Lab (Lab Seminar)
 event_url: https://entw-psy.univie.ac.at/en/
 

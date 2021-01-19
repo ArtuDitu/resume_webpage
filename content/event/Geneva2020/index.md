@@ -1,4 +1,5 @@
 ---
+url: 'Neural underpinnings of social interactions3'
 title: Neural underpinnings of social interactions
 
 event: NeuroPsychoLinguistics Lab (Lab Seminar) 

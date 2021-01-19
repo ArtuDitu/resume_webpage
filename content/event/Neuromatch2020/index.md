@@ -1,6 +1,7 @@
 ---
+url: 'Hyperscanning: A Valid Method to Study Neural Inter-brain Underpinnings of Social Interaction3'
 title: 'Hyperscanning: A Valid Method to Study Neural Inter-brain Underpinnings of Social Interaction'
-event: Neuromatch
+event: 'Neuromatch'
 event_url: https://neuromatch.io/
 
 location: Online
@@ -11,8 +12,8 @@ abstract: Social interactions are a crucial part of human life. Understanding th
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-29"
-#date_end: "2019-03-29"
+date: "2020-10-26"
+date_end: "2020-10-30"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

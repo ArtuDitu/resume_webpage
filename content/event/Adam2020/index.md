@@ -1,4 +1,5 @@
 ---
+url: 'Neural underpinnings of social interactions2'
 title: Neural underpinnings of social interactions
 
 event: Emotion Regulation Lab (Lab Seminar) 
